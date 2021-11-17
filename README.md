@@ -1,7 +1,7 @@
 # What is Zeta
 Zeta is Unified data engineering & analytics platform, across data engineering & analytics lifecycle from data discovery, code development, unit testing, performance tuning, deployment to data visualization, machine learning.
 
-Will benefit users’ interaction with Bigata Platform, including
+Will benefit users’ interaction with BigData Platform, including
 
 * Data engineers who develop new data pipeline or
 * Data analysts who explore large datasets or do ad-hoc analysis
