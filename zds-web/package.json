@@ -54,7 +54,7 @@
     "element-ui": "^2.13.2",
     "graphlib": "^2.1.7",
     "graphlib-dot": "^0.6.4",
-    "handsontable": "^7.2.1",
+    "handsontable": "^10.0.0",
     "jquery": "^3.5.1",
     "jquery-ui": "^1.12.1",
     "js-cookie": "^2.2.0",
