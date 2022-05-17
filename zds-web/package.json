@@ -62,7 +62,7 @@
     "json-highlight": "^0.1.2",
     "lodash": "^4.17.19",
     "material-design-icons": "3.0.1",
-    "moment": "^2.22.1",
+    "moment": "^2.29.2",
     "neo4j-driver": "^1.7.5",
     "pivottable": "^2.23.0",
     "pl-table": "^2.7.4",
