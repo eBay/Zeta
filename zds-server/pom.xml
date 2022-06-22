@@ -409,7 +409,7 @@
         <dependency>
             <groupId>io.fabric8</groupId>
             <artifactId>kubernetes-client</artifactId>
-            <version>4.13.0</version>
+            <version>4.13.2</version>
         </dependency>
     </dependencies>
     <!-- Additional lines to be added here... -->
